@@ -11,3 +11,18 @@ En 2022, retomé el proyecto de mi blog donde me dedico a compartir mi experienc
 Estoy siempre buscando nuevas formas de mejorar los procesos empresariales y estoy emocionado por lo que el futuro puede traer en el campo de la automatización. 
 
 ¡Espero que podamos aprender juntos!
+
+## Tecnologías
+Aquí tienes los badges para las tecnologías que mencionaste:
+
+!PHP
+!HTML5
+!CSS3
+!JavaScript
+!VBA
+!Python
+!MySQL
+!Docker
+!Docker Compose
+!Batch
+!WordPress
