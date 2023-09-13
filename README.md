@@ -13,8 +13,6 @@ Estoy siempre buscando nuevas formas de mejorar los procesos empresariales y est
 ¡Espero que podamos aprender juntos!
 
 ## Tecnologías
-Aquí tienes los badges para las tecnologías que mencionaste:
-
 !PHP
 !HTML5
 !CSS3
