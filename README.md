@@ -1,4 +1,7 @@
 # ¡Hola! Mi nombre es Raymundo Ycaza 👋
+## BPA Specialist
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/raymundoycaza?style=social)](https://twitter.com/raymundoycaza)
 
 Soy ingeniero industrial y especialista en automatización de procesos de negocio para pequeñas empresas.
 
