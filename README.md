@@ -1,7 +1,7 @@
 # ¡Hola! Mi nombre es Raymundo Ycaza 👋
-## BPA Specialist
+### BPA Specialist
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/raymundoycaza?style=social)](https://twitter.com/raymundoycaza)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZk2HKyyJKM2l_ZqUPbtxGQ?style=social)](https://youtube.com/raymundoycaza?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/raymundoycaza?style=social)](https://twitter.com/raymundoycaza) ![GitHub Followers](https://img.shields.io/github/followers/raymundoycaza?style=social)
 
 Soy ingeniero industrial y especialista en automatización de procesos de negocio para pequeñas empresas.
 
